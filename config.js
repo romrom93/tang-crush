@@ -13,5 +13,5 @@ Ta trả nàng vạn dấu .....`,
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Xi Eo lên Cần Thơ mình hẹn hò nhaaa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100032018322669/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/ake.kieu/' //link fb
 }
